@@ -1,3 +1,5 @@
+
+
 const SIDE = 500;
 
 function setup() {
